@@ -1,0 +1,4 @@
+[deps]
+EvalMetrics = "251d5f9e-10c1-4699-ba24-e0ad168fa3e4"
+Gadfly = "c91e804a-d5a3-530f-b6f0-dfbca275c004"
+IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
