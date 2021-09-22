@@ -11,7 +11,7 @@ evaluation measures and related concepts.
 ### offine
 
 * Install julia
-* `julia --project=. -e 'include("setup.jl")'`
+* `julia --project=. setup.jl`
 * The above wors for both python and julia notebooks
 
 ### Online
